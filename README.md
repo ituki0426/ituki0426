@@ -1,4 +1,5 @@
-<div style="font-size:300%;">トリプルチェック</div>
+<span style="font-size: 200%; color: red;">赤くて大きい文字</span>
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ituki0426&layout=compact&count_private=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ituki0426&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
